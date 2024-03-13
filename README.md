@@ -1,4 +1,4 @@
-## Realtime chat app with web sockets using Node.js, Express, and Socket.io with Vanilla JS on the frontend.
+## Realtime chat app with web sockets using Node.js, Express, and Socket.io.
 
 ## To Run using Live Link
 * Open the Link [here](https://textz-s6nf.onrender.com/)
